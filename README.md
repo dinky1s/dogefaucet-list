@@ -1,6 +1,6 @@
 WOW!  Such a list of FREE Doge and other Cryptocoins available.  
 
-If you're new to Dogecoin or Cryptocoins in general....you're welcome here.  Each Coin requires a wallet.  For Dogecoin, you can go here to get a FREE Wallet [gotten yourself a Dogecoin address](http://dogecoin.com/)
+If you're new to Dogecoin or Cryptocoins in general....you're welcome here.  Each Coin requires a wallet.  For Dogecoin, you can go here to get a FREE Wallet (http://dogecoin.com/)
 
 Now here's why you're here:  a list of sites that will give you a few coins for nothing more than the solve of a CAPTCHA (and maybe the viewing of an ad and the setting of a cookie or two): 
 
