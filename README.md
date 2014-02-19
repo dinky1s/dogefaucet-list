@@ -1,6 +1,7 @@
 WOW!  Such a list of FREE Doge and other Cryptocoins available.  
 
-If you're new to Dogecoin or Cryptocoins in general....you're welcome here.  Each Coin requires a wallet.  For Dogecoin, you can go here to get a FREE Wallet (http://dogecoin.com/)
+If you're new to Dogecoin or Cryptocoins in general....you're welcome here.  Each Coin requires a wallet.<br>For Dogecoin, you can go here to get a FREE Wallet (http://dogecoin.com/)<br> For BitCoins go to [Coinbase] (https://coinbase.com/?r=52e871a6d06c00e58e00011d&utm_campaign=user-referral&src=referral-link) 
+
 
 Now here's why you're here:  a list of sites that will give you a few coins for nothing more than the solve of a CAPTCHA (and maybe the viewing of an ad and the setting of a cookie or two): 
 
@@ -34,7 +35,8 @@ Updated 2/19/14
 Multiple Coins:
 - Qoinpro - When you register for FREE, you get FREE Bitcoins, Litecoins, Feathercoins, and Fedoracoins!  Plus, Worldcoin, Earthcoins and possibly Dogecoins will be coming soon.  BUT WAIT!  EVERY DAY, more coins are added to your account... FOR FREE!  They are in beta testing now and the amounts given will be increasing soon. Great way to explore many different coins for FREE...did I mention, they're FREE?!!! Check it out here:   [Qoinpro.com](http://www.qoinpro.com/9ce06a581778a44005fab8f9ef69a6c8)
 
-
+BitCoin
+- Land of Bitcoin - One of the most comprehensive and easist to navigate mulit-faucet sites. [landofbitcoin.com](http://www.landofbitcoin.com/?r=aBnl69tztoPl2bOR)
 
 
 
