@@ -10,7 +10,7 @@ Now here's why you're here:  a list of sites that will give you a few coins for 
 
 Many of these are working when they're not dry....consider donating a small amount of Doge back to them so other's can benefit as well. 
 
-Updated 2/19/14
+Updated 2/20/14
 
 - Get 5 Doge Coins [http://get5doge.com/] (http://get5doge.com/)     every 24hrs
 - Doge Faucet [http://dogefaucet.niau.org/](http://dogefaucet.niau.org/)    withdraw after 5 doge earned 
@@ -27,14 +27,19 @@ Updated 2/19/14
 - Dogecoin Faucet [http://www.dogefaucet.com/](http://www.dogefaucet.com/)     every 12hrs 
 - Dogecoin Faucet [http://dogefaucet.tk/](http://dogefaucet.tk/)     Dry
 - Doge2Goods Faucet [http://www.doge2goods.com/free-doge/](http://www.doge2goods.com/free-doge/)     Daily +Tshirt 
-- CryptoBucket Doge Faucet [http://cryptobucket.com/dogecoin_faucet.php](http://cryptobucket.com/dogecoin_faucet.php)<br> This one has 3 faucets in 1...look on the left sidebar under "Faucets"....you can click each one and get FREE Doge at each... such BONUS      every 24hrs for each faucet
+- CryptoBucket Doge Faucet [http://cryptobucket.com/dogecoin_faucet.php](http://cryptobucket.com/dogecoin_faucet.php)<br> This one has 3 faucets in 1...look on the left sidebar under "Faucets"....you can click each one and get FREE Doge as well as one Lottocoin site ... such BONUS      every 24hrs for each faucet
+- Doge Haus [dogehaus.com](http://dogehaus.com)  6 doge every 6 hours   1000 doge added in AM, get there early!
+- Shibe United [shibeunited](http://shibeunited.web44.net/coins) every 24hrs
+- Doge Hits [Dogehits.info](http://dogehits.info) 10 uDoge no limit on entries apparently
+- Doge FreeFaucet [Doge.freefaucet](http://doge.freefaucet.com.ar)  every 24hrs
+- Doge Coins Drawing [Dogecoins.co.uk](http://dogecoins.co.uk) Daily Drawing for minimum of 500 Doge...1 entry every 24hrs
 
 
 ### WANT OTHER FREE CRYPTOCOINS?
 
 
 Multiple Coins:
-- Qoinpro - When you register for FREE, you get FREE Bitcoins, Litecoins, Feathercoins, and Fedoracoins!  Plus, Worldcoin, Earthcoins and possibly Dogecoins will be coming soon.  BUT WAIT!  EVERY DAY, more coins are added to your account... FOR FREE!  They are in beta testing now and the amounts given will be increasing soon. Great way to explore many different coins for FREE...did I mention, they're FREE?!!! Check it out here:   [Qoinpro.com](http://www.qoinpro.com/9ce06a581778a44005fab8f9ef69a6c8)
+- [Qoinpro](http://www.qoinpro.com/9ce06a581778a44005fab8f9ef69a6c8) - When you register for FREE, you get FREE Bitcoins, Litecoins, Feathercoins, and Fedoracoins!  Plus, Worldcoin, Earthcoins and possibly Dogecoins will be coming soon.  BUT WAIT!  EVERY DAY, more coins are added to your account... FOR FREE!  They are in beta testing now and the amounts given will be increasing soon. Great way to explore many different coins for FREE...did I mention, they're FREE?!!! Check it out here:   [Qoinpro.com](http://www.qoinpro.com/9ce06a581778a44005fab8f9ef69a6c8)
 
 BitCoin
 - Land of Bitcoin - One of the most comprehensive and easist to navigate mulit-faucet sites. [landofbitcoin.com](http://www.landofbitcoin.com/?r=aBnl69tztoPl2bOR)
@@ -46,7 +51,7 @@ BitCoin
 Happy you found this? Here's how you can help:
 
 - woof a few doge to my wallet:  DTLVqah9cP8AocLwyaZsw5ErXiM75e3YGi
-- Even better because it's public and will help spread the news: tip me on Reddit via [/u/dinky1s](http://reddit.com/u/dinky1s) 
+- tip me on Reddit via [/u/dinky1s](http://reddit.com/u/dinky1s) 
 
 
 ### Other Lists similar to this one....
