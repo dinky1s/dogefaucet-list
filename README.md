@@ -1,7 +1,7 @@
 WOW!  Such a list of FREE Doge and other Cryptocoins available.  
 
 If you're new to Dogecoin or Cryptocoins in general....you're welcome here.  Each Coin requires a wallet.<br>For Dogecoin, you can go here to get a FREE Wallet (http://dogecoin.com/)<br>
-For BitCoin wallet: [https://coinbase.com/?r=52e871a6d06c00e58e00011d&utm_campaign=user-referral&src=referral-link](https://coinbase.com/?r=52e871a6d06c00e58e00011d)<br>
+For BitCoin wallet: [Coinbase.com](http://cur.lv/7n890)
 
 
 Now here's why you're here:  a list of sites that will give you a few coins for nothing more than the solve of a CAPTCHA (and maybe the viewing of an ad and the setting of a cookie or two): 
@@ -30,7 +30,7 @@ Updated 2/20/14
 - CryptoBucket Doge Faucet [http://cryptobucket.com/dogecoin_faucet.php](http://cryptobucket.com/dogecoin_faucet.php)<br> This one has 3 faucets in 1...look on the left sidebar under "Faucets"....you can click each one and get FREE Doge as well as one Lottocoin site ... such BONUS      every 24hrs for each faucet
 - Doge Haus [dogehaus.com](http://dogehaus.com)  6 doge every 6 hours   1000 doge added in AM, get there early!
 - Shibe United [shibeunited](http://shibeunited.web44.net/coins) every 24hrs
-- Doge Hits [Dogehits.info](http://dogehits.info) 10 uDoge no limit on entries apparently
+- Doge Hits [Dogehits.info](http://go.cur.lv/dogehits) 10 uDoge no limit on entries apparently
 - Doge FreeFaucet [Doge.freefaucet](http://doge.freefaucet.com.ar)  every 24hrs
 - Doge Coins Drawing [Dogecoins.co.uk](http://dogecoins.co.uk) Daily Drawing for minimum of 500 Doge...1 entry every 24hrs
 
@@ -42,7 +42,19 @@ Multiple Coins:
 - [Qoinpro](http://www.qoinpro.com/9ce06a581778a44005fab8f9ef69a6c8) - When you register for FREE, you get FREE Bitcoins, Litecoins, Feathercoins, and Fedoracoins!  Plus, Worldcoin, Earthcoins and possibly Dogecoins will be coming soon.  BUT WAIT!  EVERY DAY, more coins are added to your account... FOR FREE!  They are in beta testing now and the amounts given will be increasing soon. Great way to explore many different coins for FREE...did I mention, they're FREE?!!! Check it out here:   [Qoinpro.com](http://www.qoinpro.com/9ce06a581778a44005fab8f9ef69a6c8)
 
 BitCoin
-- Land of Bitcoin - One of the most comprehensive and easist to navigate mulit-faucet sites. [landofbitcoin.com](http://www.landofbitcoin.com/?r=aBnl69tztoPl2bOR)
+- Land of Bitcoin - One of the most comprehensive and easist to navigate mulit-faucet sites. [landofbitcoin.com](http://cur.lv/7n885)
+- Daily Bitcoins - very simple and easy to use [dailybitcoins.org](http://cur.lv/7n84y)
+- FreeBitcoin - Very sweet site! [freebitcoin.in](http://cur.lv/7n89k)
+- MMOclub Faucet - Works most of the time, good payouts [MMOclub.com/Faucet](http://cur.lv/7n8ag)
+- Click & Coin - uses microwallet; 100 satoshi every hour [Click & Coin](http://me.cur.lv/clickandcoin)
+- BitCoin Reserve - do easy tasks to earn BTC - Pays frequently and nicely!  [Bitcoin Reserve](http://me.cur.lv/bitcoinreserve)
+
+
+MoonCoin
+- MoonFaucet - Rena Faucet, this one pays.  May have to wait until you reach withdrawl limits, but they are small and easy.  [Moon-faucet.tk](http://now.cur.lv/MoonFaucet)
+
+
+
 
 
 
