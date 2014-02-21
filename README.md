@@ -48,6 +48,7 @@ BitCoin
 - MMOclub Faucet - Works most of the time, good payouts [MMOclub.com/Faucet](http://cur.lv/7n8ag)
 - Click & Coin - uses microwallet; 100 satoshi every hour [Click & Coin](http://me.cur.lv/clickandcoin)
 - BitCoin Reserve - do easy tasks to earn BTC - Pays frequently and nicely!  [Bitcoin Reserve](http://me.cur.lv/bitcoinreserve)
+- Virwox - No actual free coins here, but a great exchange to get started in Cryptocurrencies.  Can use Paypal to by SLLs and convert the SLLs to Bitcoins (BTC). Safe, secure and easy to use.  Register here:  [Virwox.com](http://bit.cur.lv/Virwox)
 
 
 MoonCoin
