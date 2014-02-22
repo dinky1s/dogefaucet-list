@@ -10,7 +10,7 @@ Now here's why you're here:  a list of sites that will give you a few coins for 
 
 Many of these are working when they're not dry....consider donating a small amount of Doge back to them so other's can benefit as well. 
 
-Updated 2/20/14
+Updated 2/22/14
 
 - Get 5 Doge Coins [http://get5doge.com/] (http://get5doge.com/)     every 24hrs
 - Doge Faucet [http://dogefaucet.niau.org/](http://dogefaucet.niau.org/)    withdraw after 5 doge earned 
@@ -43,19 +43,20 @@ Multiple Coins:
 
 BitCoin
 - Land of Bitcoin - One of the most comprehensive and easist to navigate mulit-faucet sites. [landofbitcoin.com](http://cur.lv/7n885)
-- Daily Bitcoins - very simple and easy to use [dailybitcoins.org](http://cur.lv/7n84y)
-- FreeBitcoin - Very sweet site! [freebitcoin.in](http://cur.lv/7n89k)
-- MMOclub Faucet - Works most of the time, good payouts [MMOclub.com/Faucet](http://cur.lv/7n8ag)
-- Click & Coin - uses microwallet; 100 satoshi every hour [Click & Coin](http://me.cur.lv/clickandcoin)
-- BitCoin Reserve - do easy tasks to earn BTC - Pays frequently and nicely!  [Bitcoin Reserve](http://me.cur.lv/bitcoinreserve)
-- Virwox - No actual free coins here, but a great exchange to get started in Cryptocurrencies.  Can use Paypal to by SLLs and convert the SLLs to Bitcoins (BTC). Safe, secure and easy to use.  Register here:  [Virwox.com](http://bit.cur.lv/Virwox)
+- Daily Bitcoins - very simple and easy to use     [dailybitcoins.org](http://cur.lv/7n84y)
+- FreeBitcoin - Very sweet site!      [freebitcoin.in](http://cur.lv/7n89k)
+- MMOclub Faucet - Works most of the time, good payouts     [MMOclub.com/Faucet](http://cur.lv/7n8ag)
+- Click & Coin - uses microwallet; 100 satoshi every hour     [Click & Coin](http://me.cur.lv/clickandcoin)
+- BitCoin Reserve - do easy tasks to earn BTC - Pays frequently and nicely!     [Bitcoin Reserve](http://me.cur.lv/bitcoinreserve)
+- Virwox - No actual free coins here, but a great exchange to get started in Cryptocurrencies.  Can use Paypal to by SLLs and convert the SLLs to Bitcoins (BTC). Safe, secure and easy to use.  Register here:     [Virwox.com](http://bit.cur.lv/Virwox)
 
 
 MoonCoin
-- MoonFaucet - Rena Faucet, this one pays.  May have to wait until you reach withdrawl limits, but they are small and easy.  [Moon-faucet.tk](http://now.cur.lv/MoonFaucet)
+- MoonFaucet - Rena Faucet, this one pays.  May have to wait until you reach withdrawl limits, but they are small and easy.     [Moon-faucet.tk](http://now.cur.lv/MoonFaucet)
 
 
-
+CashCoin
+- Free Cashcoin - this one pays instantly!    [Free CashCoin](http://in.cur.lv/cashcoin)
 
 
 
