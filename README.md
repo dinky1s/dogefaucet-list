@@ -10,7 +10,7 @@ Now here's why you're here:  a list of sites that will give you a few coins for 
 
 Many of these are working when they're not dry....consider donating a small amount of Doge back to them so other's can benefit as well. 
 
-Updated 2/22/14
+Updated 2/24/14
 
 - Get 5 Doge Coins [http://get5doge.com/] (http://get5doge.com/)     every 24hrs
 - Doge Faucet [http://dogefaucet.niau.org/](http://dogefaucet.niau.org/)    withdraw after 5 doge earned 
@@ -40,6 +40,8 @@ Updated 2/22/14
 
 Multiple Coins:
 - [Qoinpro](http://www.qoinpro.com/9ce06a581778a44005fab8f9ef69a6c8) - When you register for FREE, you get FREE Bitcoins, Litecoins, Feathercoins, and Fedoracoins!  Plus, Worldcoin, Earthcoins and possibly Dogecoins will be coming soon.  BUT WAIT!  EVERY DAY, more coins are added to your account... FOR FREE!  They are in beta testing now and the amounts given will be increasing soon. Great way to explore many different coins for FREE...did I mention, they're FREE?!!! Check it out here:   [Qoinpro.com](http://www.qoinpro.com/9ce06a581778a44005fab8f9ef69a6c8)
+UPDATE:  They added InfinteCoins!  FOR FREE!
+
 
 BitCoin
 - Land of Bitcoin - One of the most comprehensive and easist to navigate mulit-faucet sites. [landofbitcoin.com](http://cur.lv/7n885)
@@ -50,13 +52,14 @@ BitCoin
 - BitCoin Reserve - do easy tasks to earn BTC - Pays frequently and nicely!     [Bitcoin Reserve](http://me.cur.lv/bitcoinreserve)
 - Virwox - No actual free coins here, but a great exchange to get started in Cryptocurrencies.  Can use Paypal to by SLLs and convert the SLLs to Bitcoins (BTC). Safe, secure and easy to use.  Register here:     [Virwox.com](http://bit.cur.lv/Virwox)
 
+CashCoin
+- Free Cashcoin - this one pays instantly!    [Free CashCoin](http://in.cur.lv/cashcoin)
 
 MoonCoin
 - MoonFaucet - Rena Faucet, this one pays.  May have to wait until you reach withdrawl limits, but they are small and easy.     [Moon-faucet.tk](http://now.cur.lv/MoonFaucet)
 
-
-CashCoin
-- Free Cashcoin - this one pays instantly!    [Free CashCoin](http://in.cur.lv/cashcoin)
+ZetaCoin
+- ZET for Free - this one pays instantly, amount varies depending upon price and pool quantity.      [ZetaCoin](http://cur.lv/7q3rj)
 
 
 
