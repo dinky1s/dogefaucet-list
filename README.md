@@ -25,7 +25,6 @@ Updated 2/24/14
 - Dogey Dogecoin Faucet [http://faucet.dogey.org/](http://faucet.dogey.org/)     Dry
 - Silabsoft's Dogecoin Faucet [http://silabsoft.org/doge/](http://silabsoft.org/doge/)      every 24hrs
 - Dogecoin Faucet [http://www.dogefaucet.com/](http://www.dogefaucet.com/)     every 12hrs 
-- Dogecoin Faucet [http://dogefaucet.tk/](http://dogefaucet.tk/)     Dry
 - Doge2Goods Faucet [http://www.doge2goods.com/free-doge/](http://www.doge2goods.com/free-doge/)     Daily +Tshirt 
 - CryptoBucket Doge Faucet [http://cryptobucket.com/dogecoin_faucet.php](http://cryptobucket.com/dogecoin_faucet.php)<br> This one has 3 faucets in 1...look on the left sidebar under "Faucets"....you can click each one and get FREE Doge as well as one Lottocoin site ... such BONUS      every 24hrs for each faucet
 - Doge Haus [dogehaus.com](http://dogehaus.com)  6 doge every 6 hours   1000 doge added in AM, get there early!
@@ -33,6 +32,7 @@ Updated 2/24/14
 - Doge Hits [Dogehits.info](http://go.cur.lv/dogehits) 10 uDoge no limit on entries apparently
 - Doge FreeFaucet [Doge.freefaucet](http://doge.freefaucet.com.ar)  every 24hrs
 - Doge Coins Drawing [Dogecoins.co.uk](http://dogecoins.co.uk) Daily Drawing for minimum of 500 Doge...1 entry every 24hrs
+- CryptoTide [cryptotide.com](http://www.cryptotide.com/faucet.php?coin=DOGE) Gives 1-5 Doge every 12hrs
 
 
 ### WANT OTHER FREE CRYPTOCOINS?
