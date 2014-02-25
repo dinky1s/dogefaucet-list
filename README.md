@@ -10,7 +10,7 @@ Now here's why you're here:  a list of sites that will give you a few coins for 
 
 Many of these are working when they're not dry....consider donating a small amount of Doge back to them so other's can benefit as well. 
 
-Updated 2/24/14
+Updated 2/25/14
 
 - Get 5 Doge Coins [http://get5doge.com/] (http://get5doge.com/)     every 24hrs
 - Doge Faucet [http://dogefaucet.niau.org/](http://dogefaucet.niau.org/)    withdraw after 5 doge earned 
