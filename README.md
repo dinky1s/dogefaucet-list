@@ -42,6 +42,8 @@ Multiple Coins:
 - [Qoinpro](http://www.qoinpro.com/9ce06a581778a44005fab8f9ef69a6c8) - When you register for FREE, you get FREE Bitcoins, Litecoins, Feathercoins, and Fedoracoins!  Plus, Worldcoin, Earthcoins and possibly Dogecoins will be coming soon.  BUT WAIT!  EVERY DAY, more coins are added to your account... FOR FREE!  They are in beta testing now and the amounts given will be increasing soon. Great way to explore many different coins for FREE...did I mention, they're FREE?!!! Check it out here:   [Qoinpro.com](http://www.qoinpro.com/9ce06a581778a44005fab8f9ef69a6c8)
 UPDATE:  They added InfinteCoins!  FOR FREE!
 
+- [EarnCryptoCoins](http://earncryptocoins.com/index.php?ref=7629)  Despite its name, you don't really have to do anything to "earn" the coins except put you wallet address in each of the 33 (as of today) coins.  Then a couple times perday, they payout to each of the coin.  Pretty simple!    [Earncryptocoin.com](http://earncryptocoins.com/index.php?ref=7629)
+
 
 BitCoin
 - Land of Bitcoin - One of the most comprehensive and easist to navigate mulit-faucet sites. [landofbitcoin.com](http://cur.lv/7n885)
