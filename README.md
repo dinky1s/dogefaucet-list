@@ -10,7 +10,7 @@ Now here's why you're here:  a list of sites that will give you a few coins for 
 
 Many of these are working when they're not dry....consider donating a small amount of Doge back to them so other's can benefit as well. 
 
-Updated 2/25/14
+Updated 2/28/14
 
 - Get 5 Doge Coins [http://get5doge.com/] (http://get5doge.com/)     every 24hrs
 - Doge Faucet [http://dogefaucet.niau.org/](http://dogefaucet.niau.org/)    withdraw after 5 doge earned 
@@ -55,13 +55,20 @@ BitCoin
 - Virwox - No actual free coins here, but a great exchange to get started in Cryptocurrencies.  Can use Paypal to by SLLs and convert the SLLs to Bitcoins (BTC). Safe, secure and easy to use.  Register here:     [Virwox.com](http://bit.cur.lv/Virwox)
 
 CashCoin
-- Free Cashcoin - this one pays instantly!    [Free CashCoin](http://in.cur.lv/cashcoin)
+- Free Cashcoin - this one pays instantly!    [Free CashCoin](http://cur.lv/7ur0y)
 
 MoonCoin
 - MoonFaucet - Rena Faucet, this one pays.  May have to wait until you reach withdrawl limits, but they are small and easy.     [Moon-faucet.tk](http://now.cur.lv/MoonFaucet)
 
 ZetaCoin
 - ZET for Free - this one pays instantly, amount varies depending upon price and pool quantity.      [ZetaCoin](http://cur.lv/7q3rj)
+
+Cryptobuk
+- BUK - this one pays; revisit every 24hrs   [CryptoBUK](http://www.cryptobuck.com/)  
+
+DevCoin
+
+-  DEVcoin - Another one that pays...usually 5 DEV per round.  Make sure you look at the current round number in the upper right.  You can only submit once per round.  But rounds change very quickly so, it could be a couple times an hour that you can cash in.     [DEVcoin](http://cur.lv/7ur4v)
 
 
 
