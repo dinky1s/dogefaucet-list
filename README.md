@@ -10,30 +10,32 @@ Now here's why you're here:  a list of sites that will give you a few coins for 
 
 Many of these are working when they're not dry....consider donating a small amount of Doge back to them so other's can benefit as well. 
 
-Updated 2/28/14
+Updated 03/02/14
 
-- Get 5 Doge Coins [http://get5doge.com/] (http://get5doge.com/)     every 24hrs
-- Doge Faucet [http://dogefaucet.niau.org/](http://dogefaucet.niau.org/)    withdraw after 5 doge earned 
-- Doge Droppings [http://dogedroppings.com/](http://dogedroppings.com/)     Dry 
-- Doge For Free [http://dogeforfree.com/](http://dogeforfree.com/)     every 24hrs
-- Shibepool Faucet [http://faucet.shibepool.com/index.php](http://faucet.shibepool.com/index.php)     Dry
-- Moon Race [http://www.moonrace.tk/faucet/1/](http://www.moonrace.tk/faucet/1/)     Down due to server
-- Bitcoin Project's Dogecoin Faucet [https://wow.bitcoinproject.net/](https://wow.bitcoinproject.net/)     Dry
-- Wow Such Faucet [http://wowsuchfaucet.com.ar/](http://wowsuchfaucet.com.ar/)     every 24hrs
-- Bartstuff.EU [http://bartstuff.eu/doge/doge2.php](http://bartstuff.eu/doge/doge2.php)     Dry
-- In Doge We Trust [http://indogewetrust.com/](http://indogewetrust.com/)     Hourly +Bonus: use promocode  suchpromo
-- Dogey Dogecoin Faucet [http://faucet.dogey.org/](http://faucet.dogey.org/)     Dry
-- Silabsoft's Dogecoin Faucet [http://silabsoft.org/doge/](http://silabsoft.org/doge/)      every 24hrs
-- Dogecoin Faucet [http://www.dogefaucet.com/](http://www.dogefaucet.com/)     every 12hrs 
-- Doge2Goods Faucet [http://www.doge2goods.com/free-doge/](http://www.doge2goods.com/free-doge/)     Daily +Tshirt 
-- CryptoBucket Doge Faucet [http://cryptobucket.com/dogecoin_faucet.php](http://cryptobucket.com/dogecoin_faucet.php)<br> This one has 3 faucets in 1...look on the left sidebar under "Faucets"....you can click each one and get FREE Doge as well as one Lottocoin site ... such BONUS      every 24hrs for each faucet
+- RenaFaucet for Doge [http://doge-faucet.tk](http://doge-faucet.tk/?id=4808) .1 to 20 Doge awarded, withrawl at 8 Doge, ever 1hr
+- Get 5 Doge Coins [http://get5doge.com/] (http://get5doge.com/)     every 24hrs often dry, but does pay
+- Doge Faucet [http://dogefaucet.niau.org/](http://dogefaucet.niau.org/)    withdraw after 5 doge earned, does pay
+- Doge Droppings [http://dogedroppings.com/](http://dogedroppings.com/)     Sometimes Dry, but does pay 
+- Doge For Free [http://dogeforfree.com/](http://dogeforfree.com/)     every 24hrs, not sure if pays or not
+- Wow Such Faucet [http://wowsuchfaucet.com.ar/](http://wowsuchfaucet.com.ar/)     every 24hrs, not sure if pays or not
+- In Doge We Trust [http://indogewetrust.com/](http://indogewetrust.com/)     Hourly +Bonus: use promocode  suchpromo  not sure if this pays, says an amount, but I have not been able to match that with any wallet/blockchain entries.
+- Silabsoft's Dogecoin Faucet [http://silabsoft.org/doge/](http://silabsoft.org/doge/)      every 24hrs; many server errors or problems, but does pay. 
+- Dogecoin Faucet [http://www.dogefaucet.com/](http://www.dogefaucet.com/)     every 24hrs pays in batches
+- Doge2Goods Faucet [http://www.doge2goods.com/free-doge/](http://www.doge2goods.com/free-doge/)     Daily +Tshirt don't think this one has ever paid, but not 100% sure either
+- CryptoBucket Doge Faucet [http://cryptobucket.com/dogecoin_faucet.php](http://cryptobucket.com/dogecoin_faucet.php)<br> This one has 3 faucets in 1...look on the left sidebar under "Faucets"....you can click each one and get FREE Doge as well as one Lottocoin site ... such BONUS      every 24hrs for each faucet; these pay, especially Lottocoin
 - Doge Haus [dogehaus.com](http://dogehaus.com)  6 doge every 6 hours   1000 doge added in AM, get there early!
-- Shibe United [shibeunited](http://shibeunited.web44.net/coins) every 24hrs
-- Doge Hits [Dogehits.info](http://go.cur.lv/dogehits) 10 uDoge no limit on entries apparently
-- Doge FreeFaucet [Doge.freefaucet](http://doge.freefaucet.com.ar)  every 24hrs
-- Doge Coins Drawing [Dogecoins.co.uk](http://dogecoins.co.uk) Daily Drawing for minimum of 500 Doge...1 entry every 24hrs
-- CryptoTide [cryptotide.com](http://www.cryptotide.com/faucet.php?coin=DOGE) Gives 1-5 Doge every 12hrs
+- Shibe United [shibeunited](http://shibeunited.web44.net/coins) every 24hrs, pays
+- Doge Hits [Dogehits.info](http://go.cur.lv/dogehits) 10 uDoge no limit on entries apparently, never got payment
+- Doge FreeFaucet [Doge.freefaucet](http://doge.freefaucet.com.ar)  every 24hrs adds to payroll list, not sure if paid
+- Doge Coins Drawing [Dogecoins.co.uk](http://dogecoins.co.uk) Daily Drawing for minimum of 500 Doge...1 entry every 24hrs, never got one, but I keep hoping.
+- CryptoTide [cryptotide.com](http://www.cryptotide.com/faucet.php?coin=DOGE) Gives 1-5 Doge every 12hrs, frequent server issues, but does pay.
 
+Currently Dry or Down
+- Shibepool Faucet [http://faucet.shibepool.com/index.php](http://faucet.shibepool.com/index.php)   Still Dry - Dont use
+- Moon Race [http://www.moonrace.tk/faucet/1/](http://www.moonrace.tk/faucet/1/)     Down due to server, but fixing and will be up soon.
+- Bitcoin Project's Dogecoin Faucet [https://wow.bitcoinproject.net/](https://wow.bitcoinproject.net/)  Still Dry
+- Bartstuff.EU [http://bartstuff.eu/doge/doge2.php](http://bartstuff.eu/doge/doge2.php)     Dry/Down
+- Dogey Dogecoin Faucet [http://faucet.dogey.org/](http://faucet.dogey.org/)     Dry
 
 ### WANT OTHER FREE CRYPTOCOINS?
 
