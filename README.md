@@ -10,25 +10,35 @@ Now here's why you're here:  a list of sites that will give you a few coins for 
 
 Many of these are working when they're not dry....consider donating a small amount of Doge back to them so other's can benefit as well. 
 
-Updated 03/02/14
+Updated 03/06/14
 
+Confirmed Paying Faucets
 - RenaFaucet for Doge [http://doge-faucet.tk](http://doge-faucet.tk/?id=4808) .1 to 20 Doge awarded, withrawl at 8 Doge, ever 1hr
 - Get 5 Doge Coins [http://get5doge.com/] (http://get5doge.com/)     every 24hrs often dry, but does pay
 - Doge Faucet [http://dogefaucet.niau.org/](http://dogefaucet.niau.org/)    withdraw after 5 doge earned, does pay
 - Doge Droppings [http://dogedroppings.com/](http://dogedroppings.com/)     Sometimes Dry, but does pay 
+- Silabsoft's Dogecoin Faucet [http://silabsoft.org/doge/](http://silabsoft.org/doge/)      every 24hrs; many server errors or problems, but does pay. 
+- CryptoTide [cryptotide.com](http://www.cryptotide.com/faucet.php?coin=DOGE) Gives 1-5 Doge every 24hrs, frequent server issues, but does pay.
+- Spout78  [Spout78  ](http://spout78.us/faucet.php?coin=DOGE) Gives 1-5 Doge every 24hrs, pays
+- Hands56  [Hands56](http://hand56.us/faucet.php?coin=DOGE)  Gives 1-5 Doge every 24hrs, pays
+- DMA [DMADMA](http://dmadma.us/faucet.php?coin=DOGE)   Gives 1-5 Doge every 24hrs, pays
+- Jesus [JesusDoge](http://jesus1457.com/faucet.php?coin=DOGE) Love when Jesus gives me Doge   Gives 1-5 Doge every 24hrs, pays
+- Ragen98  [Ragen98](http://ragen98.us/faucet.php?coin=DOGE)   Gives 1-5 Doge every 24hrs, pays
+- JSA  [JSAJSA](http://jsajsa.us/faucet.php?coin=DOGE)  Gives 1-5 Doge every 24hrs, pays
+- Shibe United [shibeunited](http://shibeunited.web44.net/coins) every 24hrs, pays
+- CryptoBucket Doge Faucet [http://cryptobucket.com/dogecoin_faucet.php](http://cryptobucket.com/dogecoin_faucet.php)<br> This one has 3 faucets in 1...look on the left sidebar under "Faucets"....you can click each one and get FREE Doge as well as one Lottocoin site ... such BONUS      every 24hrs for each faucet; these pay, especially Lottocoin
+
+Unconfirmed Paying Faucets
 - Doge For Free [http://dogeforfree.com/](http://dogeforfree.com/)     every 24hrs, not sure if pays or not
 - Wow Such Faucet [http://wowsuchfaucet.com.ar/](http://wowsuchfaucet.com.ar/)     every 24hrs, not sure if pays or not
 - In Doge We Trust [http://indogewetrust.com/](http://indogewetrust.com/)     Hourly +Bonus: use promocode  suchpromo  not sure if this pays, says an amount, but I have not been able to match that with any wallet/blockchain entries.
-- Silabsoft's Dogecoin Faucet [http://silabsoft.org/doge/](http://silabsoft.org/doge/)      every 24hrs; many server errors or problems, but does pay. 
-- Dogecoin Faucet [http://www.dogefaucet.com/](http://www.dogefaucet.com/)     every 24hrs pays in batches
-- Doge2Goods Faucet [http://www.doge2goods.com/free-doge/](http://www.doge2goods.com/free-doge/)     Daily +Tshirt don't think this one has ever paid, but not 100% sure either
-- CryptoBucket Doge Faucet [http://cryptobucket.com/dogecoin_faucet.php](http://cryptobucket.com/dogecoin_faucet.php)<br> This one has 3 faucets in 1...look on the left sidebar under "Faucets"....you can click each one and get FREE Doge as well as one Lottocoin site ... such BONUS      every 24hrs for each faucet; these pay, especially Lottocoin
+- Dogecoin Faucet [http://www.dogefaucet.com/](http://www.dogefaucet.com/)     every 24hrs pays in batches, unsure about payouts
+- Doge2Goods Faucet [http://www.doge2goods.com/free-doge/](http://www.doge2goods.com/free-doge/)     Daily +Tshirt don't think this one has ever paid, but not 100% sure
 - Doge Haus [dogehaus.com](http://dogehaus.com)  6 doge every 6 hours   1000 doge added in AM, get there early!
-- Shibe United [shibeunited](http://shibeunited.web44.net/coins) every 24hrs, pays
 - Doge Hits [Dogehits.info](http://go.cur.lv/dogehits) 10 uDoge no limit on entries apparently, never got payment
 - Doge FreeFaucet [Doge.freefaucet](http://doge.freefaucet.com.ar)  every 24hrs adds to payroll list, not sure if paid
 - Doge Coins Drawing [Dogecoins.co.uk](http://dogecoins.co.uk) Daily Drawing for minimum of 500 Doge...1 entry every 24hrs, never got one, but I keep hoping.
-- CryptoTide [cryptotide.com](http://www.cryptotide.com/faucet.php?coin=DOGE) Gives 1-5 Doge every 12hrs, frequent server issues, but does pay.
+
 
 Currently Dry or Down
 - Shibepool Faucet [http://faucet.shibepool.com/index.php](http://faucet.shibepool.com/index.php)   Still Dry - Dont use
