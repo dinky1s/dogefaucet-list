@@ -12,7 +12,7 @@ Now here's why you're here:  a list of sites that will give you a few coins for 
 
 Many of these are working when they're not dry....consider donating a small amount of Doge back to them so other's can benefit as well. 
 
-Updated 03/06/14
+Updated 04/03/14
 
 Confirmed Paying Faucets
 - RenaFaucet for Doge    [http://doge-faucet.tk](http://doge-faucet.tk/?id=4808) .1 to 20 Doge awarded, withrawl at 8 Doge, ever 1hr
