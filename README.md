@@ -55,6 +55,10 @@ UPDATE:  They added InfinteCoins!  FOR FREE!
 
 - [EarnCryptoCoins](http://earncryptocoins.com/index.php?ref=7629)  Despite its name, you don't really have to do anything to "earn" the coins except put you wallet address in each of the 33 (as of today) coins.  Then a couple times perday, they payout to each of the coin.  Pretty simple!    [Earncryptocoin.com](http://earncryptocoins.com/index.php?ref=7629)
 
+- Steal the Pixels   [Steal the Pixels](http://www.stealthepixels.com/get-free-money/?ref=79695F4A)    This is an odd site, but very, very cool.  Can get your choice of USD (thru paypal), BTC, LTC once every 24hrs.  They also sell ads (pixels) for the site.  If you're adventurous, you can use your payouts to bet on worldwide sports. SO COOL!
+
+- [EASYBITCOINS](https://easybitco.in/?ref=dinky1s)   Somewhat misnamed.   You complete tasks (very easy) and get points or "freshcoins".  The coins can then be converted into cash.  Lots of fun and cool stuff to do on the sites.
+
 
 BitCoin
 - FreeBitcoin - Very sweet site!      [freebitcoin.in](http://cur.lv/7n89k)
