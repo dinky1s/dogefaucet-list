@@ -62,6 +62,7 @@ UPDATE:  They added InfinteCoins!  FOR FREE!
 
 BitCoin
 - FreeBitcoin - Very sweet site!      [freebitcoin.in](http://cur.lv/7n89k)
+- FreeBitcoinWin - Almost exactly like FreeBitco.in  Free Roll  does pay [FreeBitcoinWin](http://freebitcoinwin.com/?r=6230)
 - Land of Bitcoin - One of the most comprehensive and easist to navigate mulit-faucet sites.    [landofbitcoin.com](http://cur.lv/7n885)
 - Daily Bitcoins - very simple and easy to use     [dailybitcoins.org](http://cur.lv/7n84y)
 - MMOclub Faucet - Works most of the time, good payouts     [MMOclub.com/Faucet](http://cur.lv/7n8ag)
