@@ -33,7 +33,9 @@ Confirmed Paying Faucets
 - Hunger14  [Hunger14](http://hunger14.us/faucet.php?coin=DOGE)     Gives 1-5 Doge every 24hrs, pays
 - The Doge Bowl  [DogeBowl](http://thedogebowl.com/)  random amounts every 24hrs, pays
 - Shibe United    [shibeunited](http://shibeunited.web44.net/coins) every 24hrs, pays
+- Daily Doge Giveaway  [Daily Doge Giveaway](http://dailydogecoingiveaway.com/view_giveaway.php)  Entered into win large amounts of DOGE, pays.
 - CryptoBucket Doge Faucet    [http://cryptobucket.com/dogecoin_faucet.php](http://cryptobucket.com/dogecoin_faucet.php)<br> This one has 3 faucets in 1...look on the left sidebar under "Faucets"....you can click each one and get FREE Doge as well as one Lottocoin site ... such BONUS      every 24hrs for each faucet; these pay, especially Lottocoin
+
 
 Unconfirmed Paying Faucets
 - Doge Droppings    [http://dogedroppings.com/](http://dogedroppings.com/)     Sometimes Dry, Don't know if this pays or not
