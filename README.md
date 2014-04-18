@@ -12,7 +12,7 @@ Now here's why you're here:  a list of sites that will give you a few coins for 
 
 Many of these are working when they're not dry....consider donating a small amount of Doge back to them so other's can benefit as well. 
 
-Updated 04/03/14
+Updated 04/18/14
 
 Confirmed Paying Faucets
 - Dogecoin Faucet    [http://www.dogefaucet.com/](http://www.dogefaucet.com/)     every 24hrs pays in batches, got paid almost immediately today. Received 8.75 Doge
