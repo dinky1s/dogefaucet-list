@@ -16,8 +16,6 @@ Updated 04/03/14
 
 Confirmed Paying Faucets
 - Dogecoin Faucet    [http://www.dogefaucet.com/](http://www.dogefaucet.com/)     every 24hrs pays in batches, got paid almost immediately today. Received 8.75 Doge
-- RenaFaucet for Doge    [http://doge-faucet.tk](http://doge-faucet.tk/?id=4808) .1 to 20 Doge awarded, withrawl at 8 Doge, ever 1hr
-- Doge Faucet    [http://dogefaucet.niau.org/](http://dogefaucet.niau.org/)    withdraw after 5 doge earned, does pay
 - Silabsoft's Dogecoin Faucet    [http://silabsoft.org/doge/](http://silabsoft.org/doge/)  Gives 1-5 Doge every 24hrs, does pay. 
 - CryptoTide    [cryptotide.com](http://www.cryptotide.com/faucet.php?coin=DOGE) Gives 1-5 Doge every 24hrs, does pay.
 - Spout78    [Spout78  ](http://spout78.us/faucet.php?coin=DOGE) Gives 1-5 Doge every 24hrs, pays
@@ -44,6 +42,7 @@ Unconfirmed Paying Faucets
 - Doge2Goods Faucet    [http://www.doge2goods.com/free-doge/](http://www.doge2goods.com/free-doge/)     Daily +Tshirt don't think this one has ever paid, but not 100% sure
 - Bitcoin Project's Dogecoin Faucet    [https://wow.bitcoinproject.net/](https://wow.bitcoinproject.net/)  Says cannot use proxies (I'm at work) but looks like it might payout.  Will try from home and move if paying. 
 - Doge FreeFaucet    [Doge.freefaucet](http://doge.freefaucet.com.ar)  every 24hrs adds to payroll list, not sure if paid
+- - RenaFaucet for Doge    [http://doge-faucet.tk](http://doge-faucet.tk/?id=4808) .1 to 20 Doge awarded, withrawl at 8 Doge, ever 1hr
 
 
 Currently Dry or Down
