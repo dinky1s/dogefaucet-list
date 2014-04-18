@@ -26,6 +26,14 @@ Confirmed Paying Faucets
 - Jesus    [JesusDoge](http://jesus1457.com/faucet.php?coin=DOGE) Love when Jesus gives me Doge   Gives 1-5 Doge every 24hrs, pays
 - Ragen98     [Ragen98](http://ragen98.us/faucet.php?coin=DOGE)   Gives 1-5 Doge every 24hrs, pays
 - JSA     [JSAJSA](http://jsajsa.us/faucet.php?coin=DOGE)  Gives 1-5 Doge every 24hrs, pays
+- Dry67    [Dry67](http://dry67.us/faucet.php?coin=DOGE)   Gives 1-5 Doge every 24hrs, pays
+- euh55   [euh55](http://euh55.us/faucet.php?coin=DOGE)     Gives 1-5 Doge every 24hrs, pays
+- 35and   [35and](http://35and.us/faucet.php?coin=DOGE)    Gives 1-5 Doge every 24hrs, pays
+- GFT45   [GFT45](http://gft45.us/faucet.php?coin=DOGE)    Gives 1-5 Doge every 24hrs, pays
+- DoD44   [DoD44](http://dod44.us/faucet.php?coin=DOGE)    Gives 1-5 Doge every 24hrs, pays
+- Key02   [Key02](http://key02.us/faucet.php?coin=DOGE)    Gives 1-5 Doge every 24hrs, pays
+- Hunger14  [Hunger14](http://hunger14.us/faucet.php?coin=DOGE)     Gives 1-5 Doge every 24hrs, pays
+- The Doge Bowl  [DogeBowl](http://thedogebowl.com/)  random amounts every 24hrs, pays
 - Shibe United    [shibeunited](http://shibeunited.web44.net/coins) every 24hrs, pays
 - CryptoBucket Doge Faucet    [http://cryptobucket.com/dogecoin_faucet.php](http://cryptobucket.com/dogecoin_faucet.php)<br> This one has 3 faucets in 1...look on the left sidebar under "Faucets"....you can click each one and get FREE Doge as well as one Lottocoin site ... such BONUS      every 24hrs for each faucet; these pay, especially Lottocoin
 
