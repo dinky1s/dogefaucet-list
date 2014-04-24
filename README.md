@@ -107,6 +107,7 @@ TopCoin
 - TopCoin TOP  [TopCoin FAUCET](http://topcoin.pw/faucet/index.php)  Pays random amounts every 24hrs
 
 NextCoin
+- FreeNXT    [FreeNXT](http://freenxt.org?ref=412) Random amounts depending upon roll, every 20min
 - NextCoin NXT    [NextCoin]( http://nxtra.org/faucet/)  Get 2 or 4 NXT.  One time deal per address. 
  
 St. Louis Coin
