@@ -12,7 +12,7 @@ Now here's why you're here:  a list of sites that will give you a few coins for 
 
 Many of these are working when they're not dry....consider donating a small amount of Doge back to them so other's can benefit as well. 
 
-Updated 04/18/14
+Updated 04/28/14
 
 Confirmed Paying Faucets
 - Dogecoin Faucet    [http://www.dogefaucet.com/](http://www.dogefaucet.com/)     every 24hrs pays in batches, got paid almost immediately today. Received 8.75 Doge
@@ -33,7 +33,6 @@ Confirmed Paying Faucets
 - Hunger14  [Hunger14](http://hunger14.us/faucet.php?coin=DOGE)     Gives 1-5 Doge every 24hrs, pays
 - The Doge Bowl  [DogeBowl](http://thedogebowl.com/)  random amounts every 24hrs, pays
 - Shibe United    [shibeunited](http://shibeunited.web44.net/coins) every 24hrs, pays
-- Daily Doge Giveaway  [Daily Doge Giveaway](http://dailydogecoingiveaway.com/view_giveaway.php)  Entered into win large amounts of DOGE, pays.
 - CryptoBucket Doge Faucet    [http://cryptobucket.com/dogecoin_faucet.php](http://cryptobucket.com/dogecoin_faucet.php)<br> This one has 3 faucets in 1...look on the left sidebar under "Faucets"....you can click each one and get FREE Doge as well as one Lottocoin site ... such BONUS      every 24hrs for each faucet; these pay, especially Lottocoin
 
 
@@ -50,8 +49,6 @@ Unconfirmed Paying Faucets
 Currently Dry or Down
 - Doge Haus    [dogehaus.com](http://dogehaus.com)  6 doge every 6 hours   1000 doge added in AM, get there early!
 - Get 5 Doge Coins    [http://get5doge.com/](http://get5doge.com/)     every 24hrs often dry, but does pay
-
-
 
 
 
