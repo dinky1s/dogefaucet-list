@@ -12,10 +12,10 @@ Now here's why you're here:  a list of sites that will give you a few coins for 
 
 Many of these are working when they're not dry....consider donating a small amount of Doge back to them so other's can benefit as well. 
 
-Updated 04/28/14
+Updated 05/06/14
 
 Confirmed Paying Faucets
-- Dogecoin Faucet    [http://www.dogefaucet.com/](http://www.dogefaucet.com/)     every 24hrs pays in batches, got paid almost immediately today. Received 8.75 Doge
+- Dogecoin Faucet    [http://www.dogefaucet.com/](http://www.dogefaucet.com/)     every 24hrs pays in batches, got paid almost immediately today. 
 - Silabsoft's Dogecoin Faucet    [http://silabsoft.org/doge/](http://silabsoft.org/doge/)  Gives 1-5 Doge every 24hrs, does pay. 
 - CryptoTide    [cryptotide.com](http://www.cryptotide.com/faucet.php?coin=DOGE) Gives 1-5 Doge every 24hrs, does pay.
 - Spout78    [Spout78  ](http://spout78.us/faucet.php?coin=DOGE) Gives 1-5 Doge every 24hrs, pays
@@ -105,7 +105,7 @@ TopCoin
 
 NextCoin
 - FreeNXT    [FreeNXT](http://freenxt.org?ref=412) Random amounts depending upon roll, every 20min
-- NextCoin NXT    [NextCoin]( http://nxtra.org/faucet/)  Get 2 or 4 NXT.  One time deal per address. 
+- NextCoin NXT    [NextCoin](http://nxtra.org/faucet/)  Get 2 or 4 NXT.  One time deal per address. 
  
 St. Louis Coin
 - St. Louis coin STL   [STL Coin](http://cryptotrends.info/stlcoin/faucet)  Often dry.  Was excited about this one, the first city to have its own coin, but really hasn't done much. 
